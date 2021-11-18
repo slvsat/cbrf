@@ -1,0 +1,4 @@
+github.com/kazhuravlev/go-cbrcur v0.0.0-20181129190631-ca9bfaf5fc2e h1:w+oT29PjMMuT4XtTnYWPAyDCiCMIEQiNcARioDR6k7Y=
+github.com/kazhuravlev/go-cbrcur v0.0.0-20181129190631-ca9bfaf5fc2e/go.mod h1:wosup6ouCT2/cZAY3roThgMZUnP/y3DZyfXemm1Jqlo=
+golang.org/x/net v0.0.0-20181129055619-fae4c4e3ad76/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
